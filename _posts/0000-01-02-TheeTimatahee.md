@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to 2nd slide!"
 ---
-Y O T E XDDD
+SKIRT SKIRT
 Use the left arrow to go back!
